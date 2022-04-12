@@ -56,8 +56,11 @@
 {"name":"莫扎兔源","url":"http://www.mozhatu.xyz/api.php/app/"},
 {"name":"天神影视","url":"https://deity.fun/api.php/app/"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}],
-"zhujiexi": "https://aa.xkys.tv/json.php?url=#https://json.hfyrw.com/mao.go?url=",
-"beiyongjiexi": "https://nbjx.vip/?url=#https://jx.parwix.com:4433/player/?url=",
+"zhujiexi": "http://api.vip123kan.vip/?url=",
+"beiyongjiexi": "https://nbjx.vip/?url=",
+"renrenjiexi": "https://ku.renrenmi.cc/api/?key=ZTSkid2ROth73IfIIR&url=",
+"LTjiexi": "https://che.kmys.top/1.php?url=",
+"wuduyunjiexi": "https://jf.1080p.icu:3377/home/api?type=ys&uid=139706&key=cgjlntwxzAEMQTUVWX&url=",
 "dianshizhibo": "http://42.193.55.242/tv/xzb.php",
 "caijizhan": "http://xiaomaomi.cc/api.php",
 "tiyuzhibo": "https://m.zhibo8.net",
@@ -68,8 +71,8 @@
 "bizhi": "空",
 "qupu": "空",
 "gongju": "aHR0cDovLzQyLjE5My41NS4yNDI=",
-"lunbofanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9",
-"lunboqianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw==",
+"lunbofanye": "https://www.douyu.com/gapi/rkc/directory/mixList/2_208/",
+"lunboqianzhui": "https://m.douyu.com",
 "Home": {
 "dy": {
 "class": "全部$&class=#喜剧$&class=喜剧#爱情$&class=爱情#动作$&class=动作#枪战$&class=枪战#犯罪$&class=犯罪#惊悚$&class=惊悚#恐怖$&class=恐怖#悬疑$&class=悬疑#动画$&class=动画#家庭$&class=家庭#奇幻$&class=奇幻#魔幻$&class=魔幻#科幻$&class=科幻#战争$&class=战争#青春$&class=青春#剧情$&class=剧情#西部$&class=西部#纪录$&class=记录#音乐$&class=音乐#歌舞$&class=歌舞#运动$&class=运动#历史$&class=历史#武侠$&class=武侠#冒险$&class=冒险#传记$&class=传记",
@@ -92,7 +95,7 @@
 "year": "全部$&lang=&year=#2022$&lang=&year=2022#2021$&lang=&year=2021#2020$&lang=&year=2020#2019$&lang=&year=2019#2018$&lang=&year=2018#2017$&lang=&year=2017#2016-2011$&lang=&year=2016#2010-2000$&lang=&year=2010#90年代$&lang=&year=90#80年代$&lang=&year=80#更早$&lang=&year=70"
 }
 },
- "zidingyi": {"name": "影视工厂",
+"zidingyi": {"name": "影视工厂",
 "url": "https://www.ysgc.cc",
 "tihuan": "cnzz.com",
 "User": "空",
