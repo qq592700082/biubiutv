@@ -1,5 +1,7 @@
 点播：
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
+云解析,https://api.yparse.com/api/xml,解析
+资源采集,http://www.zycaiji.net:7788/api.php，解析
 结束
 
 解析：
@@ -13,9 +15,10 @@ json解析一,http://jxgg.work/json.php?url=
 解析八,https://api.jiexi.la/?url=
 解析九,https://jx.parwix.com:4433/player/?url=
 解析十,https://z1.m1907.cn/?jx=
-解析十一,https://www.8090.la/8090/?url=
+8090,https://www.8090.la/8090/?url=
 解析十二,http://www.1717yun.com/jx/ty.php?url=
 json解析十三,https://www.1717yun.com/jx/ty.php?url=
+云解析，https://yparse.jn1.cc/index.php?url=
 结束
 
 直播：
