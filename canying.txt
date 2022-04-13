@@ -2,13 +2,7 @@
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 结束
 解析：
-解析三,https://jx.7kjx.com/?url=
-解析四,https://okjx.cc/?url=
-解析五,https://svip.bljiex.cc/?v=
-解析六,https://yparse.jn1.cc/index.php?url=
-解析七,https://jx.ergan.top/?url=
-解析八,https://api.jiexi.la/?url=
-解析九,https://jx.parwix.com:4433/player/?url=
+1号,https://jx.7kjx.com/?url=
 结束
 直播：
 【分类头】央视-卫视【分类尾】
