@@ -1,7 +1,7 @@
 点播：
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 云解析,https://api.yparse.com/api/xml,解析
-资源采集,http://www.zycaiji.net:7788/api.php，解析
+资源采集,http://www.zycaiji.net:7788/api.php,解析
 结束
 
 解析：
