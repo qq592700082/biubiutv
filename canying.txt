@@ -2,7 +2,6 @@
 8090,http://zy.yilans.net:8090/api.php/provide/vod/at/xml/,解析
 云解析,https://api.yparse.com/api/xml/,解析
 结束
-
 解析：
 json解析一,http://jxgg.work/json.php?url=
 解析二,https://www.pangujiexi.com/pangu/?url=
@@ -19,7 +18,6 @@ json解析一,http://jxgg.work/json.php?url=
 json解析十三,https://www.1717yun.com/jx/ty.php?url=
 云解析，https://yparse.jn1.cc/index.php?url=
 结束
-
 直播：
 【分类头】央视-卫视【分类尾】
 【央视头】
