@@ -1,5 +1,5 @@
 {"zhuyejiekou": [
-{"name":"填接口名称","url":"http://xxx/api.php/v1.vod"},
+{"name":"益达影院","url":"http://luobu.yss6080.com/mogai_api.php/v1.vod"},
 {"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
 {"name":"填接口名称","url":"http://xxx/api.php/app/"},
 {"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
