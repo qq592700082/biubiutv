@@ -5,7 +5,7 @@
 {"name":"好看影视","url":"http://bc.haokanju1.cc/lvdou_api.php/v1.vod"},
 {"name":"暖光影视","url":"https://app.bl210.com/api.php/v1.vod"}
 ],//主页接口支持以上5种接口格式，比如猫影视里面的接口，只要后缀是以上5种的格式，都是可以直接复制过来使用的。最后一个接口结尾不加 , 号。
-"zhujiexi": "https://xxx/json.php?url=#https://xxx/json.php?url=",//主解析是JSON直链的，可以添加多个，用#号分割，最后一个后面不加#号。
+"zhujiexi": "https://json.pangujiexi.com:12345/json.php?url=#http://admin.vodjx.top/json.php?url=",//主解析是JSON直链的，可以添加多个，用#号分割，最后一个后面不加#号。
 "beiyongjiexi": "https://xxx/?url=#https://xxx/?url=",//备用解析是常规格式的解析，可以添加多个，用#号分割，最后一个后面不加#号。
 "dianshizhibo": "https://xxx.txt",//填写电视直播的接口链接
 "caijizhan": "http://xxx/api.php",//填采集站接口,采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
