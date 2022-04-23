@@ -113,10 +113,7 @@ CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://httpdvb.slave.nx96200.cn:13164/playurl?
-
-playtype=live&protocol=hls&accesstoken=R5EFD5775U31936182K776AC3C1IC7F7E2B7PBM316F986V0Z9C465W161DD2827A6455F0&playtoken=31650CCBYWVYENM10&verifycode=2003485633&rate=org
-
-&programid=4200900158.m3u8
+playtype=live&protocol=hls&accesstoken=R5EFD5775U31936182K776AC3C1IC7F7E2B7PBM316F986V0Z9C465W161DD2827A6455F0&playtoken=31650CCBYWVYENM10&verifycode=2003485633&rate=org&programid=4200900158.m3u8
 求索纪录,http://183.249.160.53:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/1/index.m3u8?fmt=ts2hls
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
@@ -168,9 +165,7 @@ Discovery,http://cdn99.one:80/356195/FgHq4u/71866.ts
 Discovery,http://new-pro.tv:8080/Fernando/123321/32874
 Discovery H&H,http://cdn99.one:80/356195/FgHq4u/90251.ts
 Discovery H&H,http://cdn99.one:80/356195/FgHq4u/71867.ts
-Discovery Science,https://h5.ustvgo.la/Science/myStream/playlist.m3u8?
-
-wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDQ6MTA6MDYgUE0maGFzaF92YWx1ZT1CZVpuTXErK0VhdE5pZERYRFZvcHN3PT0mdmFsaWRtaW51dGVzPTI0MA==
+Discovery Science,https://h5.ustvgo.la/Science/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDQ6MTA6MDYgUE0maGFzaF92YWx1ZT1CZVpuTXErK0VhdE5pZERYRFZvcHN3PT0mdmFsaWRtaW51dGVzPTI0MA==
 Discovery Science,http://tv.plusk.xyz:28000/gigitbl/2DKYzhvEke/3681
 Discovery Science,http://red.ipfox.org:8080/amer/amer1234/2404
 Discovery Science,http://cdn99.one:80/356195/FgHq4u/103511.ts
@@ -215,18 +210,10 @@ NewTV动作电影,http://39.134.65.208/PLTV/88888888/224/3221225555/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 北京IPTV淘电影,http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-
-
 1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD
-
-%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D
-
-%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C
-
-%2C2%2C2201300%2C17%2C%2C2%2CEND
+%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
 北京IPTV电影,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-
-
 1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR
-
 %2FC8%2FqFakBOSDD3mErwuVWF5DqfHIW%2FMQ%3D%3D%3A20211105223205%2C10000100000000050000000003887495%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 杭州影视,http://112.17.40.247/PLTV/88888888/224/3221229377/index.m3u8
 虎牙电影,http://zzy789.xyz/douyu1.php?id=3637726
@@ -235,10 +222,8 @@ HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 HBO,http://cdn99.one:80/356195/FgHq4u/90247.ts
 HBO2,http://cdn99.one:80/356195/FgHq4u/90246.ts
 Cinemax,https://h4.ustvgo.la/Cinemax/myStream/playlist.m3u8?
-
 wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDQ6MDU6NDUgUE0maGFzaF92YWx1ZT1Ma2Mwc1ZBZlBRV1pNUzUvVUJiYmFnPT0mdmFsaWRtaW51dGVzPTI0MA==
 FXM,https://h2.ustvgo.la/FXMovie/myStream/playlist.m3u8?
-
 wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDQ6MDg6MjEgUE0maGFzaF92YWx1ZT0ydUg0R1MraTZKR3h4MW45SkFBTmFnPT0mdmFsaWRtaW51dGVzPTI0MA==
 ##
 ##卫视##
@@ -363,19 +348,13 @@ wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDIyIDQ6MDg6MjEgUE0maGFzaF92YWx1ZT0ydUg0R1Mr
 北京冬奥纪实,http://39.135.138.58:18890/PLTV/88888888/224/3221225675/index.m3u8
 北京冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
 北京IPTV淘baby,http://39.134.134.89/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-
-
 1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR
-
 %2FC8%2FqFakBOBGhARyizMEPlAOe9nM1b5Q%3D%3D%3A20211105223205%2C10000100000000050000000003887496%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 北京IPTV淘剧场,http://39.134.134.84/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-
-
 1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR
-
 %2FC8%2FqFakBOatI%2F3LD77f6VT%2BVI0tODRw%3D%3D%3A20211105223205%2C10000100000000050000000003887497%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 北京IPTV淘娱乐,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-
-
 1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR
-
 %2FC8%2FqFakBOtChdQBj46BMs%2FmbjOB0PZw%3D%3D%3A20211105223205%2C10000100000000050000000003887499%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 湖南快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
 湖南茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
