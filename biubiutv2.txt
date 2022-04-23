@@ -10,7 +10,7 @@
 "zhujiexi": "https://www.8090.la/8090/?url=#https://json.pangujiexi.com:12345/json.php?url=#http://admin.vodjx.top/json.php?url=",//主解析是JSON直链的，可以添加多个，用#号分割，最后一个后面不加#号。
 "beiyongjiexi": "https://jx.xmflv.com/?url=#https://api.jiexi.la/?url=",//备用解析是常规格式的解析，可以添加多个，用#号分割，最后一个后面不加#号。
 "dianshizhibo": "https://raw.githubusercontent.com/qq592700082/tv/main/tvbiubiu.txt",//填写电视直播的接口链接
-"caijizhan": "http://zy.yilans.net:8090/api.php",//填采集站接口,采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
+"caijizhan": "http://api.kunyu77.com/api.php",//填采集站接口,采集站后缀填写到api.php就可以了，后面那些不用填写，一次只可以填写一个。
 "tiyuzhibo": "https://m.zhibo8.net",//填写体育直播的网址链接
 "reci": "https://v.sogou.com",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
