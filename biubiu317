@@ -10,10 +10,10 @@
 
 //填写采集站的接口
 "caijizhan": [
-{"name":"填采集站名称","url":"填采集站链接"},
-{"name":"填采集站名称","url":"填采集站链接"},
-{"name":"填采集站名称","url":"填采集站链接"},
-{"name":"填采集站名称","url":"填采集站链接"}],
+{"name":"1","url":"http://api.kunyu77.com/api.php"},
+{"name":"2","url":"http://api.fqzy.cc/api.php"},
+{"name":"3","url":"https://www.feisuzyapi.com/api.php"},
+{"name":"4","url":"https://api.tiankongapi.com/api.php"}],
 
 //填写轮播接口，翻页链接和播放前缀的格式是base64编码
 "lunbo": [
