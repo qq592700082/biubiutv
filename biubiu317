@@ -6,7 +6,7 @@
 {"name":"3","url":"http://1api.4kdytv.com/api.php/v1.vod"},
 {"name":"4","url":"http://chaorenbb.com/api.php/v1.vod"},
 {"name":"5","url":"https://app.bl210.com/api.php/v1.vod"},
-{"name":"0","url":"http://app.qianju.cc/api.php/v1.vod"}],
+{"name":"6","url":"http://app.qianju.cc/api.php/v1.vod"}],
 
 //填写采集站的接口
 "caijizhan": [
