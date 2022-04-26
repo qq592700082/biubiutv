@@ -107,7 +107,8 @@ CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 中国天气,http://140.207.241.3:8080/live/program/live/zgqx/1300000/mnf.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-人文,#genre#
+##
+##人文##
 清华大学,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 求索纪录,http://183.214.126.200:3003/live/qsjl/index.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
