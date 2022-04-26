@@ -17,22 +17,21 @@
 
 //填写轮播接口，翻页链接和播放前缀的格式是base64编码
 "lunbo": [
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"},
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"},
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"},
-{"name": "填写名称","fanye": "填写翻页链接","qianzhui": "填写播放前缀"}],
+{"name": "dou","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
+{"name": "ya","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
+{"name": "b","fanye": "aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="},],
 
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"zhujiexi": "填主解析接口",
+"zhujiexi": "https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
 
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"beiyongjiexi": "填备用解析接口",
+"beiyongjiexi": "https://z1.m1907.cn?jx=#https://jx.iztyy.com/Bei/?url=#https://jx.iztyy.com/svip/?url=#https://okjx.cc/?url=",
 
 //填写电视直播的接口链接
-"dianshizhibo": "https://xxx.txt",
+"dianshizhibo": "https://raw.githubusercontent.com/qq592700082/tv/main/tvbiubiu.txt",
 
 //填写体育直播的网址链接
-"tiyuzhibo": "https://xxx.com",
+"tiyuzhibo": "https://m.zhibo8.net",
 
 
 //下面都不用动了，就把上面那些填写完成就OK了。
@@ -61,26 +60,26 @@
 },
 
 //填写自定义内容，或者直接在软件设置界面的自定义接口上传，这里不用填也行。
-"zidingyi": {"name": "自定义演示",
-"url": "https://www.xxx.com",
-"tihuan": "cnzz.com",
+"zidingyi": {"name": "爱西西",
+"url": "https://myaixixi.com",
+"tihuan": "51.la",
 "User": "空",
-"fenlei": "电视剧$/vodshow/2--------#电影$/vodshow/1--------#综艺$/vodshow/3--------#动漫$/vodshow/4--------",
-"houzhui": "---.html",
+"fenlei": "电视剧$/index.php/vod/show/id/2/page/#电影$/index.php/vod/show/id/1/page/#豆瓣TOP250$/index.php/vod/show/id/19/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#国产剧$/index.php/vod/show/area/内地/id/2/page/#港剧$/index.php/vod/show/area/香港/id/2/page/#韩剧$/index.php/vod/show/area/韩国/id/2/page/#美剧$/index.php/vod/show/area/美国/id/2/page/#台剧$/index.php/vod/show/area/台湾/id/2/page/",
+"houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"myui-vodlist__box\"",
-"jiequshuzuhou": "</span>",
-"tupianqian": "original=\"",
+"jiequshuzuqian": "data-or",
+"jiequshuzuhou": "</li>",
+"tupianqian": "iginal=\"",
 "tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
+"biaotiqian": "</span></a>",
+"biaotihou": "<span",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
+"sousuohouzhui": "/index.php/vod/detail/id/",
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
 "jspic": "pic",
@@ -99,16 +98,16 @@
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuqian": "mo-movs-item",
 "bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"otherbox\">",
-"zhuangtaihou": "</p>",
-"daoyanqian": "导演：</span>",
-"daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
-"zhuyanhou": "</p>",
-"juqingqian": "style=\"display: none;\">",
-"juqinghou": "</span>",
+"zhuangtaiqian": "年份:&nbsp;</span>",
+"zhuangtaihou": "&nbsp;</li>",
+"daoyanqian": "主演:&nbsp;</span>",
+"daoyanhou": "&nbsp;</li>",
+"zhuyanqian": "主演:&nbsp;</span>",
+"zhuyanhou": "&nbsp;</li>",
+"juqingqian": "class=\"mo-paxs-5px mo-ptxs-0px\">",
+"juqinghou": "</div>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
