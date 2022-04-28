@@ -22,10 +22,10 @@
 {"name": "b","fanye": "aHR0cHM6Ly9hcGkubGl2ZS5iaWxpYmlsaS5jb20veGxpdmUvd2ViLWludGVyZmFjZS92MS9zZWNvbmQvZ2V0TGlzdD9wbGF0Zm9ybT13ZWImcGFyZW50X2FyZWFfaWQ9MTAmYXJlYV9pZD0zMyZzb3J0X3R5cGU9b25saW5lJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9iaWxpLw=="},],
 
 //主解析是JSON直链的，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"zhujiexi": "https://json.5lp.net/json.php?url=#http://api.vip123kan.vip/?url=#https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+"zhujiexi": "https://json.5lp.net/json.php?url=",
 
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
-"beiyongjiexi": "https://z1.m1907.cn?jx=#https://jx.iztyy.com/Bei/?url=#https://jx.iztyy.com/svip/?url=#https://okjx.cc/?url=",
+"beiyongjiexi": "https://jx.iztyy.com/Bei/?url=#https://jx.iztyy.com/svip/?url=#https://okjx.cc/?url=https://www.playm3u8.cn/jiexi.php?url=#https://api.jiexi.la/?url=#https://www.nxflv.com/?url=#https://svip.bljiex.cc/?v=#https://www.1717yun.com/api/?url=",
 
 //填写电视直播的接口链接
 "dianshizhibo": "https://raw.githubusercontent.com/qq592700082/tv/main/tvbiubiu.txt",
